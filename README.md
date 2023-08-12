@@ -2,7 +2,6 @@
 #### A passionate programmer in Iran.
 
 
-- 🔭 I’m currently working on this page. 
 
 - 💬 Ask me about **c#, ASP .Net Core, Razor Pages, sql, Bootstrap**
 
