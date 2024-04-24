@@ -3,7 +3,7 @@
 
 
 
-- 💬 Ask me about **c#, ASP .Net Core, Razor Pages, sql, Bootstrap**
+- 💬 Ask me about **c#, ASP .Net Core, Web Api, SQL-Server, EF-Core**
 
 - 📫 How to reach me [sh.zamani2002@gmail.com](mailto:sh.zamani2002@gmail.com)
 
