@@ -1,28 +1,37 @@
-# 🙋 Hi there, I'm Shahin
+# 👋 Hi, I'm Shahin Zamani
 
-### A Back-End Developer Specializing in Microsoft Technologies
+## 🚀 Back-End Developer Specializing in Microsoft Technologies
 
-- 💬 **Ask me about:** C#, ASP.NET Core, Web API, SQL Server, Entity Framework Core  
-- 📫 **How to reach me:** [sh.zamani2002@gmail.com](mailto:sh.zamani2002@gmail.com)  
+Welcome to my GitHub profile! I'm a passionate back-end developer focused on building robust, scalable, and efficient systems using Microsoft's technology stack. I have a strong background in designing and implementing APIs, database management, and system architecture.
+
+- 💬 **Ask me about:** C#, ASP.NET Core, Web API, SQL Server, Entity Framework Core, System Design  
+- 📫 **Contact me at:** [sh.zamani2002@gmail.com](mailto:sh.zamani2002@gmail.com)  
 - 📄 **Know about my experiences:** [zamanishahin.github.io](https://zamanishahin.github.io/)  
 
 ---
 
 ## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![RESTful APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white)  
+![System Design](https://img.shields.io/badge/System%20Design-00599C?style=for-the-badge&logo=architect&logoColor=white)  
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 
 ---
 
-## 📱 Connect with Me:
+## 📈 GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZamaniShahin)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamani-shahin/)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/serious-black)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=icloud&logoColor=white)](https://zamanishahin.github.io/)  
+![Shahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZamaniShahin&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamani-shahin/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZamaniShahin)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://zamanishahin.github.io/)  
