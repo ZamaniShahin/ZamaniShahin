@@ -10,17 +10,28 @@ Welcome to my GitHub profile! I'm a passionate back-end developer focused on bui
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![RESTful APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white)  
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white)  
-![System Design](https://img.shields.io/badge/System%20Design-00599C?style=for-the-badge&logo=architect&logoColor=white)  
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+### 🧑‍💻 **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+</p>
+
+### 🗄️ **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
+
+### ⚙️ **Core Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/System%20Design-00599C?style=for-the-badge&logo=architect&logoColor=white" alt="System Design"/>
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
+</p>
 
 ---
 
@@ -30,8 +41,16 @@ Welcome to my GitHub profile! I'm a passionate back-end developer focused on bui
 
 ---
 
-## 📫 Connect with Me:
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamani-shahin/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZamaniShahin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://zamanishahin.github.io/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/zamani-shahin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ZamaniShahin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://zamanishahin.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
