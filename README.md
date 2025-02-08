@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate back-end developer focused on bui
 
 - 💬 **Ask me about:** C#, ASP.NET Core, Web API, SQL Server, Entity Framework Core, System Design  
 - 📫 **Contact me at:** [sh.zamani2002@gmail.com](mailto:sh.zamani2002@gmail.com)  
-- 📄 **Know about my experiences:** [zamanishahin.github.io](https://zamanishahin.github.io/)  
 
 ---
 
@@ -49,8 +48,5 @@ Welcome to my GitHub profile! I'm a passionate back-end developer focused on bui
   </a>
   <a href="https://github.com/ZamaniShahin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://zamanishahin.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
